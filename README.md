@@ -1,4 +1,4 @@
-<h1 align="center">OpenAI - Project</h1>
+<h1 align="center">OpenAI - chatgpt Cyber EthicsHub free Project</h1>
 <p align="center">This Repository using OpenAI API to interact with ChatGPT & Dall·E 2. Built with ReactJS and Tailwind CSS by indiahackerics:Cyber EthicsHub
 </p>
 
