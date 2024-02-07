@@ -1,5 +1,6 @@
 <h1 align="center">OpenAI - Project</h1>
-<p align="center">This Repository using OpenAI API to interact with ChatGPT & Dall·E 2. Built with ReactJS and Tailwind CSS</p>
+<p align="center">This Repository using OpenAI API to interact with ChatGPT & Dall·E 2. Built with ReactJS and Tailwind CSS by indiahackerics:Cyber EthicsHub
+</p>
 
 <img src="https://user-images.githubusercontent.com/64394320/210140604-04dd93f5-f9c5-4f1a-87b6-ccdc5b7c9002.png" alt="OpenAI Project">
 
@@ -9,7 +10,7 @@
 - Clone this repository
 
 ```bash
-git clone https://github.com/harshitethic/Openai-clone/
+git clone https://github.com/D20ga/chatgpt-website-indiahackerics.git
 ```
 
 - Install dependency library
